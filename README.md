@@ -1,6 +1,8 @@
 # Lifetime Steam Game Playtime Calculator
 
-This is just a quick script to calculate your lifetime steam game playtime.
+This is just a quick script to calculate your lifetime steam game playtime. This works in general
+but particularly if you and your friends have private profiles that public profile calculators will
+not be able to see.
 
 ## Instructions
 
