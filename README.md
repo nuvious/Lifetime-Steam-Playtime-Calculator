@@ -9,12 +9,12 @@ not be able to see.
 - Go to your profile or a friend's profile.
 - Click on `Games` link on the right, should bring you to the `All Games` tab.
 - Copy everything using CTRL-A + CTRL-C
-- Paste into file named `steam_hours.txt` in the same directory as the python script.
+- Paste into file named `steam_time.txt` in the same directory as the python script.
 - Run the script.
 
 ## Example Output
 
-There's an example file for `steam_hours.txt` in this repo. This is the output from that sample file:
+There's an example file for `steam_time.txt` in this repo. This is the output from that sample file:
 
 ```bash
 $ python ./lifetime_steam_time.py

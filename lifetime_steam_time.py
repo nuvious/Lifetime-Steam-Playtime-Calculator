@@ -8,7 +8,7 @@ import re
 total_minutes = 0
 
 # Read the file
-with open('steam_hours.txt') as f:
+with open('steam_time.txt') as f:
     for line in f:
         # If you're reading your own profile, LAST PLAYED will be populated
         if 'LAST PLAYED' in line:
